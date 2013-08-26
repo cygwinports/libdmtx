@@ -1,6 +1,0 @@
-category: Graphics
-requires: libdmtx0
-external-source: libdmtx
-sdesc: "Data Matrix barcode library (development)"
-ldesc: "libdmtx is a software library that enables programs to read and
-write Data Matrix barcodes of the modern ECC200 variety."
